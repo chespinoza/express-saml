@@ -1,6 +1,6 @@
 # Express-saml
 
-Experiment of SAML integration using samlify.js and Express
+SAML integration Experiment using samlify.js and Express
 
 
 ## To Run in development mode
